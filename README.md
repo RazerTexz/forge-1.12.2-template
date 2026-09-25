@@ -1,5 +1,5 @@
 # Forge 1.12.2 Template
-Powered by **RetroFuturaGradle** and **Gradle 8.0+**
+Powered by **RetroFuturaGradle** and **Gradle 9+**
 
 ## Setup
 1. Click **Use this template**
