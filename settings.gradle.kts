@@ -1,6 +1,6 @@
 pluginManagement {
     repositories {
-        maven("https://nexus.gtnewhorizons.com/repository/public")
+        maven("https://nexus.gtnewhorizons.com/repository/public/")
     }
 }
 
